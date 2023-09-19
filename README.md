@@ -1,7 +1,7 @@
 # Portfolio de Datos / Data Portfolio
 
 <details>
-  <summary>🇪🇸 Versión en Español</summary>
+  <summary>🇪🇸 Español</summary>
 
   ## Descripción del Portfolio
 
@@ -33,7 +33,7 @@ Si deseas explorar más proyectos y detalles, puedes visitar mi [portfolio compl
 </details>
 
 <details>
-  <summary>🇺🇸 English Version</summary>
+  <summary>🇺🇸 English </summary>
 
   ## Portfolio Description
 
